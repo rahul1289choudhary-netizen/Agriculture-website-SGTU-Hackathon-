@@ -1,0 +1,5 @@
+Crop,YieldScore,N_req,P_req,K_req,YieldPerAcre,CostPerAcre
+Wheat,75,60,40,40,20,25000
+Rice,80,70,50,50,22,30000
+Pulses,65,40,30,30,15,18000
+Mustard,60,50,35,35,12,15000
